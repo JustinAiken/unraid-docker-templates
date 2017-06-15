@@ -12,7 +12,7 @@
 [b]Converted By @JustinAiken using Community Applications[/b]</Overview>
   <Category>Network:Other</Category>
   <WebUI></WebUI>
-  <TemplateURL/>
+  <TemplateURL>https://raw.githubusercontent.com/JustinAiken/unraid-docker-templates/master/bitcoinunlimited/bitcoinunlimited.xml</TemplateURL>
   <Icon>https://raw.githubusercontent.com/JustinAiken/unraid-docker-templates/master/bitcoinunlimited/bitcoin.png</Icon>
   <ExtraParams/>
   <DateInstalled>1497556369</DateInstalled>
