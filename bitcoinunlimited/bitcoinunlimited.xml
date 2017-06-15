@@ -16,6 +16,7 @@
   <Icon>https://raw.githubusercontent.com/JustinAiken/unraid-docker-templates/master/bitcoinunlimited/bitcoin.png</Icon>
   <ExtraParams/>
   <DateInstalled>1497556369</DateInstalled>
+  <Project>https://www.bitcoinunlimited.info/</Project>
   <Description>The Bitcoin Unlimited project seeks to provide a voice to all stakeholders in the Bitcoin ecosystem.&#xD;
 &#xD;
 [b]Converted By @JustinAiken using Community Applications[/b]</Description>
